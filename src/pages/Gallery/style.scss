@@ -1,0 +1,11 @@
+.gallery {
+  .image-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .error {
+    font-size: 16px;
+    color: #f00;
+  }
+}
